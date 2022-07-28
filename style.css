@@ -1,0 +1,17 @@
+html, body{
+
+}
+div{
+}
+.alb{
+    background-color: white;
+}
+.poza{
+    height: 7cm;
+}
+
+@media screen and (max-width:400px){
+    .alb{
+    background-color: crimson;
+    }
+}
